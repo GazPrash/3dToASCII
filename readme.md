@@ -1,6 +1,6 @@
 # 3D to ASCII Renderer
 
-![wolf demo](demo/wolfDemo.mov)
+![wolf demo](demo/wolfDemo.gif)
 
 a little project that can take a `.obj` file, reads the vertex data, and then turn it into a moving ASCII chars in the terminal.
 
