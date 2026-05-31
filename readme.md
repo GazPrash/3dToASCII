@@ -1,5 +1,7 @@
 # 3D to ASCII Renderer
 
+![wolf demo](/Users/prash/personal/web/3dToAscii/demo/wolfDemo.mov)
+
 a little project that can take a `.obj` file, reads the vertex data, and then turn it into a moving ASCII chars in the terminal.
 
 flow:
