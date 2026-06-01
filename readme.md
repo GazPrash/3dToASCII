@@ -38,11 +38,3 @@ you can also cap the animation length:
 ```sh
 ./cppstart.sh path/to/model.obj --frames 300
 ```
-
-the main files now live under `src/`:
-
-```text
-src/main.cpp       parses args and kicks everything off
-src/renderer.cpp   runs the terminal renderer
-src/extractor.cpp  reads and prepares the OBJ data
-```
