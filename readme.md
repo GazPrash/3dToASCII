@@ -32,9 +32,9 @@ render a circle or square as a point and then connect the points via face inform
 
 run:
 ```sh
-./cppstart.sh path/to/model.obj
+./3dToAscii.sh path/to/model.obj
 ```
 you can also cap the animation length:
 ```sh
-./cppstart.sh path/to/model.obj --frames 300
+./3dToAscii.sh path/to/model.obj --frames 300
 ```
