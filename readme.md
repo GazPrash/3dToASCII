@@ -1,6 +1,5 @@
 # 3D to ASCII Renderer
-
-![wolf demo](https://github.com/user-attachments/assets/a35f7942-d2a8-4c72-aeac-640395f14fdd)
+<video src="https://github.com/user-attachments/assets/a35f7942-d2a8-4c72-aeac-640395f14fdd" controls autoplay loop muted style="max-width: 100%;"></video>
 
 a little project that can take a `.obj` file, reads the vertex data, and then turn it into a moving ASCII chars in the terminal.
 
